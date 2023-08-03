@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height:400&color=0:c2e59c,100:64b3f4&text=Welcome!👋&fontSize=40&fontColor=55616b)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=0:c2e59c,100:64b3f4&text=I'm%20Bokyeong!👋&fontSize=43&fontColor=55616b&fontAlignY=38)
+
+### 🚀 About Me!
+- 안녕하세요. 백엔드 개발자 손보경입니다.
+- 다양한 의사소통 방법을 통해 **정확한 의사소통**을 이끌어낸 경험이 있습니다.
+- **경계 없는 협업**을 통해 높은 완성도를 갖는 서비스를 제공할 수 있다고 생각합니다
+- 최선의 선택을 위한 Best Practice를 실천합니다.
 
 <!--
 **sonb9615/sonb9615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
